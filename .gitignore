@@ -1,0 +1,16 @@
+# Dossiers générés par Altium
+History/
+__Previews/
+Project Logs for */
+Project Outputs for */
+
+# Fichiers générés / rapports
+*.PrjPcbStructure
+*.html
+*.htm
+*.Dat
+*.LOG
+*.log
+*.PcbDoc.Local
+*.SchDoc.Local
+*.PrjPcb.Local
